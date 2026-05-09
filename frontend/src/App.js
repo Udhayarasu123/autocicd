@@ -20,7 +20,7 @@ function App() {
         </ul>
 
         <button>
-          Deployment Successful v1
+          Deployment Successful via GitHub Actions!
         </button>
 
       </div>
